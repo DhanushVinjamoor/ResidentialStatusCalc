@@ -1,7 +1,7 @@
 
 # Project Title
 
-Development of a simple, easy to use program that reads from a set template and returns the residential status
+Development of a simple, easy to use program that reads from a set template and returns the residential status. This is developed with the Indian legal framework in mind.
 
 
 
