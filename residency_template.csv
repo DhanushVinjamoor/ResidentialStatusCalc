@@ -1,0 +1,19 @@
+yearcategories,year,startdate,enddate,tripcategories,assesseecategories,income,incomefromforeignsources
+PY0,2023,02/04/2022,06/08/2022,ToIndia-citizen/PIO on visit to India,citizen,1700000,100000
+PY0,2023,05/02/2023,23/03/2023,ToIndia-citizen/PIO on visit to India,citizen,1700000,100000
+PY1,2022,05/02/2022,23/03/2022,ToIndia-citizen/PIO on visit to India,CitizenNon-Resident,1700000,100000
+PY1,2022,20/06/2021,23/07/2021,ToIndia-citizen/PIO on visit to India,CitizenNon-Resident,1700000,100000
+PY2,2021,05/02/2021,23/03/2021,ToIndia-citizen/PIO on visit to India,citizenResident,1700000,100000
+PY2,2021,20/06/2020,23/09/2020,ToIndia-citizen/PIO on visit to India,citizenResident,1700000,100000
+PY3,2020,05/02/2020,23/03/2020,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY3,2020,20/06/2019,23/07/2019,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY4,2019,05/02/2019,23/03/2019,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY4,2019,20/06/2018,27/11/2018,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY5,2018,01/01/2019,23/03/2019,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY5,2018,20/06/2018,27/08/2018,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY6,2017,05/02/2019,23/03/2019,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY6,2017,20/06/2018,27/12/2018,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY7,2016,05/02/2019,23/03/2019,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY7,2016,20/06/2018,27/08/2018,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY8,2015,05/02/2019,23/03/2019,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
+PY8,2015,20/06/2018,27/08/2018,ToIndia-citizen/PIO on visit to India,citizenUnknown,1700000,100000
